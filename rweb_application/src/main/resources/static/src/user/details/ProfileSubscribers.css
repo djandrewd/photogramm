@@ -1,0 +1,44 @@
+.profileElement {
+    width: 32%;
+    list-style: none;
+}
+
+.profileSubcribers {
+    width: 100%;
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-top: 0;
+    display: -webkit-box;
+    list-style: none;
+}
+
+.profileDetails {
+    max-width: 50%;
+    width: 100%;
+    margin-top: 1%;
+    background-color: whitesmoke;
+}
+
+.follower {
+    display: flex;
+}
+
+.followerOpen {
+    font-size: 14px;
+    line-height: 0;
+}
+
+.followerOpen:focus {
+    text-decoration: none;
+    line-height: 1;
+}
+
+.followerNick {
+    width: 70%;
+    overflow: hidden;
+}
+
+.followerBtn {
+    width: 20%;
+    float: right;
+}

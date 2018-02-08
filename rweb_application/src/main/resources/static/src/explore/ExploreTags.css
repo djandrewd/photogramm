@@ -1,0 +1,7 @@
+.exploreTag {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    width: 100%;
+    background: whitesmoke;
+}

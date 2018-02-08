@@ -1,0 +1,37 @@
+.uploadImageText {
+    height: 100px;
+    resize: none;
+}
+
+.uploadLabel {
+    font-weight: bold
+}
+
+.btnUploadFile {
+    width: 50%;
+    background-color: whitesmoke;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 0;
+}
+
+.btnUploadSubmit {
+    margin-top: 100px;
+}
+
+.uploadContainer {
+    display: grid;
+}
+
+.uploadContent {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    right: 30%;
+    bottom: 30%;
+    border: 1px solid #ccc;
+    background: whitesmoke;
+    overflow: auto;
+    padding: 20px;
+}

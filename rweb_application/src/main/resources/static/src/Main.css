@@ -1,0 +1,20 @@
+h4, h5, h1, h2 {
+    display: inline;
+}
+
+.btn-link {
+    color: black;
+}
+
+.btn-link:hover  {
+    color: black;
+    text-decoration: none;
+}
+
+.Main {
+    position: fixed;
+    overflow: auto;
+    min-height: 100%;
+    min-width: 100%;
+    background: whitesmoke;
+}

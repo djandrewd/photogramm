@@ -1,0 +1,21 @@
+.image-value {
+    width: 478px;
+    height: 360px;
+}
+
+.image-container {
+    margin-top: 70px;
+    margin-bottom: 64px;
+    border: 1px solid #e6e6e6;
+    background-color: white;
+}
+
+.image-user {
+    margin-left: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.image-name {
+    margin: 3%;
+}

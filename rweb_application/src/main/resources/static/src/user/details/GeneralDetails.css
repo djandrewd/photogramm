@@ -1,0 +1,12 @@
+.profileGeneral {
+    padding: 10px;
+    margin: 1px;
+}
+
+.editProfile{
+    float: right;
+}
+
+.profileNickname {
+    display: inline;
+}

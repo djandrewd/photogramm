@@ -1,0 +1,43 @@
+.signupForm {
+    background-color: whitesmoke;
+    padding: 5% 30% 7%;
+}
+
+.signupHeader {
+
+}
+
+.signupContent {
+    padding-top: 5%;
+}
+
+.signupInput {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.signupButton {
+    background-color: #cccccc;
+    color: white;
+    padding: 10px 10px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    float: left;
+}
+
+
+button[disabled] {
+    visibility: hidden;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}

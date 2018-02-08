@@ -1,0 +1,95 @@
+#upload-block {
+    float: left;
+    margin-top: 1%;
+    margin-left: 15%;
+}
+
+#search-block {
+    float: left;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-bottom: 10px;
+}
+
+#app-name {
+    float: left;
+    margin-left: 1%;
+    margin-top: 13px;
+    display: inline;
+}
+
+h4, h5 {
+    display: inline;
+}
+
+#search {
+    width: 180px;
+}
+
+#search-results {
+    z-index: 2;
+    margin-bottom: 1px;
+    position: fixed;
+    width: 181px;
+}
+
+.u-link {
+    margin-bottom: 50px;
+}
+
+#user-block {
+    float: right;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+#logout {
+    margin-top: 1%;
+    margin-right: 9%;
+    float: right;
+}
+
+#user-info {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: whitesmoke;
+    border: 1px solid beige;
+}
+
+
+#images {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 480px;
+    max-height: 360px;
+    position: relative;
+}
+
+.image-value {
+    width: 478px;
+    height: 360px;
+}
+
+.image-container {
+    margin-top: 70px;
+    margin-bottom: 64px;
+    border: 1px solid #e6e6e6;
+    background-color: whitesmoke;
+}
+
+.image-user {
+    margin-left: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.image-name {
+    margin: 3%;
+}
+
+.like {
+    width: 5%;
+    float: left;
+}

@@ -1,0 +1,7 @@
+.images {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 480px;
+    max-height: 360px;
+    position: relative;
+}

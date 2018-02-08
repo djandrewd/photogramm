@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: photogramm_user
+    password: 1234
+    url: jdbc:mysql://localhost:3306/photogramm
+  freemarker:
+    template-loader-path: '/WEB-INF/ftl/'
+  http:
+    multipart:
+      max-file-size: 10MB
+application:
+    images:
+      height: 360
+      width: 460
+      fs:
+        enabled: true
+        files-directory: '../photo-service/photos/'
+        storage-url: 'http://localhost:8080/imgs/'
+        format: JPG
+
+

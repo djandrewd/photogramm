@@ -1,0 +1,11 @@
+.commentValue {
+
+}
+
+.commentValueArea {
+    margin-left: 4px;
+    width: 97%;
+    margin-top: 5px;
+    resize: none;
+    overflow: hidden
+}

@@ -1,0 +1,12 @@
+form {
+    background-color: whitesmoke;
+}
+
+div {
+    padding: 10px;
+}
+
+#upload-text {
+    height: 100px;
+    width: 50%;
+}

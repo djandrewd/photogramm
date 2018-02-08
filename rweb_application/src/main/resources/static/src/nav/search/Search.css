@@ -1,0 +1,20 @@
+.search-block {
+    float: left;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-bottom: 10px;
+}
+
+.clear {
+    margin-top: 1px;
+    margin-left: 4px;
+}
+
+.search-results {
+    z-index: 2;
+    margin-bottom: 1px;
+    margin-top: 5px;
+    position: fixed;
+    width: 181px;
+    background: white;
+}

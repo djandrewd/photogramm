@@ -1,0 +1,26 @@
+.userHistory {
+    display: inline;
+    float: right;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+.historyAction {
+    display: flex;
+}
+
+.actionDescription {
+    width: 80%;
+    overflow: hidden;
+    margin-right: 5px;
+}
+
+.actionImage {
+    width: 20%;
+    float: right;
+}
+
+.actionImageValue {
+    width: 40px;
+    height: 40px;
+}
